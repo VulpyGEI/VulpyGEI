@@ -1,3 +1,5 @@
+import pyinstaller
+
 # Инициализация переменных
 inputValue = ''
 maxValue = 0
