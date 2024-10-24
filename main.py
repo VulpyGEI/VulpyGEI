@@ -18,3 +18,4 @@ while inputValue != '0':
             maxInputValue = inputValue
 
 print(f'Число с максимальной суммой цифр: {maxInputValue}')
+input('Нажмите  Enter,  чтобы  закрыть  программу...')
